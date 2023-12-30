@@ -11,7 +11,7 @@ The overarching objective of this project is to construct a robust logistic regr
 
 ## Dataset
 
-The dataset utilized in this study comprises 14 features and a binary target variable representing heart disease diagnosis. The [Framingham Heart Study dataset](https://www.kaggle.com/...)(replace with the actual dataset link) is a longitudinal dataset of 4,000+ records and 15 cardiovascular risk factors.
+The dataset utilized in this study comprises 14 features and a binary target variable representing heart disease diagnosis. The [Framingham Heart Study dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)(https://github.com/VISHRUT225/Heart_Disease_Prediction/blob/main/data/Heart_Disease_Prediction.csv) is a longitudinal dataset of 4,000+ records and 15 cardiovascular risk factors.
 
 ## 📂 Project Structure  
 
