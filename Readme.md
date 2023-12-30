@@ -1,7 +1,7 @@
 # 🩺💔 Heart Disease Prediction 
 ![heart-disease](https://github.com/VISHRUT225/Heart_Disease_Prediction/assets/102377338/2cd6b97b-c267-4df7-b38c-a0882002d633)
 
-## ✨ Introduction
+## 📢 Introduction
 
 Cardiovascular diseases, with heart disease at the forefront, stand as the primary cause of mortality worldwide. As the global burden of heart-related illnesses persists, the need for early identification of individuals at high risk becomes increasingly crucial. This project leverages logistic regression to develop a sophisticated model for predicting heart disease risk based on comprehensive patient data.
 
