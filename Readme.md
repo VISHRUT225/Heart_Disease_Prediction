@@ -1,4 +1,6 @@
-# Heart Disease Prediction
+# 🩺💔 Heart Disease Prediction 
+
+[[https://github.com/VISHRUT225/Heart_Disease_Prediction/tree/main/img/heart-disease.png|alt=heart-disease]]
 
 ## Introduction
 
@@ -12,14 +14,14 @@ The overarching objective of this project is to construct a robust logistic regr
 
 The dataset utilized in this study comprises 14 features and a binary target variable representing heart disease diagnosis. The [Framingham Heart Study dataset](https://www.kaggle.com/...)(replace with the actual dataset link) is a longitudinal dataset of 4,000+ records and 15 cardiovascular risk factors.
 
-## Project Structure
+## 📂 Project Structure  
 
 - `code/`: Contains the Jupyter Notebook (`Heart_Disease_Prediction.ipynb`) with the code for data preprocessing, model development, and evaluation.
 - `data/`: Placeholder for the dataset file (`Heart_Disease_Prediction.csv`).
 - `reports/`: Contains the project report (`Heart_Disease_Prediction_Report.md`).
 - `README.md`: This file, providing an overview of the project.
 
-## Getting Started
+## 🚀 Getting Started 
 
 This project was developed and tested using Google Colab. To run the code and explore the analysis:
 
@@ -32,11 +34,11 @@ This project was developed and tested using Google Colab. To run the code and ex
 Feel free to modify and experiment with the code to better understand the workflow and results.
 
 
-## Results
+## 📊 Results
 
 The logistic regression model achieved an overall accuracy of 90.74% on the test set. For detailed metrics and analysis, refer to the project report.
 
-## Contributing
+## 🤝 Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Issues and feature requests are also welcome!
 
