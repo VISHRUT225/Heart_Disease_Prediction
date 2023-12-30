@@ -1,15 +1,15 @@
 # 🩺💔 Heart Disease Prediction 
 ![heart-disease](https://github.com/VISHRUT225/Heart_Disease_Prediction/assets/102377338/2cd6b97b-c267-4df7-b38c-a0882002d633)
 
-## Introduction
+## ✨ Introduction
 
 Cardiovascular diseases, with heart disease at the forefront, stand as the primary cause of mortality worldwide. As the global burden of heart-related illnesses persists, the need for early identification of individuals at high risk becomes increasingly crucial. This project leverages logistic regression to develop a sophisticated model for predicting heart disease risk based on comprehensive patient data.
 
-## Objective
+## 🎯 Objective
 
 The overarching objective of this project is to construct a robust logistic regression model tailored to accurately predict the presence or absence of heart disease in patients. Recognizing the multifaceted nature of cardiovascular health, our focus extends to 14 key risk factors, each contributing uniquely to the overall risk profile.
 
-## Dataset
+## 📑 Dataset
 
 The dataset utilized in this study comprises 14 features and a binary target variable representing heart disease diagnosis. The [Framingham Heart Study dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset) is a longitudinal dataset of 4,000+ records and 15 cardiovascular risk factors.
 
