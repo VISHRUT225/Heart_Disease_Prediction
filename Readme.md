@@ -1,6 +1,6 @@
 # 🩺💔 Heart Disease Prediction 
 
-![Heart-Disease](https://github.com/VISHRUT225/Heart_Disease_Prediction/blob/main/img/heart-disease.jpg)
+![Heart-Disease](https://github.com/VISHRUT225/Heart_Disease_Prediction/blob/main/img/heart-disease.jpg?raw=true)
 
 ## Introduction
 
